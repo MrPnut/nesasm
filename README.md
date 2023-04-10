@@ -1,3 +1,5 @@
+This fork of NESasm is for a Windows only build, built with x86_64-w64-mingw32-gcc (GCC) 10-win32 20220113.  The build is available under Github Releases.  Tested with Windows 11.
+
 The O.G. NESasm assembler for NES 6502 assembly, version 3.1 (Latest as of March 2016). Includes `Makefile` for OS X / Linux / other Unix-like OSes.
 
 ###### Usage

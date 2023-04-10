@@ -1,5 +1,5 @@
 RM       = rm -f
-CC       = gcc
+CC       = x86_64-w64-mingw32-gcc
 
 CFLAGS   = -O4 -Wall
 
